@@ -18,7 +18,7 @@ We selected **Qwen 3** and **Ministral 3** families in **Q4_K_M** quantization t
 ## 3. Results
 
 ### 3.1 Prompt Processing (Prefill)
-*Measured in Tokens per Second (t/s). Batch size = 16384.*
+*Measured in Tokens per Second (t/s).*
 
 | Model Family | Model | Size | PP Speed (512 ctx) | PP Speed (16k ctx) |
 | :--- | :--- | :--- | :--- | :--- |
