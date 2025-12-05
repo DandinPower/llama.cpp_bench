@@ -54,4 +54,4 @@ Contributions are welcome for more results and corresponding reports.
 
 ## Acknowledgements
 
-1.*enchmarks based on `llama.cpp` (backend: CUDA via GGML).
+1. Benchmarks based on `llama.cpp` (backend: CUDA via GGML).
